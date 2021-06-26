@@ -96,7 +96,7 @@ plugin (`debezium/debezium-connector-postgresql`) and deploy Source Connector(`p
 Open your web browser and go to [Kowl UI](http://localhost:8080/) then check the content
 of `DockerServer.public.demo_table` topic.
 
-TODO: add photo
+![kowl-cdc-messges.png](./_docs/img/kowl-cdc-messges.png)
 
 #### 5. Insert more data to PostgreSQL
 
