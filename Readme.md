@@ -13,7 +13,7 @@ running the whole CDC infrastructure (Kafka Connect, Debezium, PostgreSQL etc.)
 
 ### Architecture Overview
 
-![architecture](./_docs/img/architecture.png)
+![architecture-overview.png](./_docs/img/architecture-overview.png)
 
 The following components are available when you run the whole infrastructure:
 
