@@ -28,7 +28,7 @@ The following components are available when you run the whole infrastructure:
 
 ## Getting Started
 
-### Prerequisite
+### Prerequisites
 
 * Docker
 
